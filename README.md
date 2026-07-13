@@ -295,6 +295,10 @@ The synthetic `generated_scenario` field is deliberately excluded.
 
 The Gold analyst queue is connected to Qlik Sense.
 
+The dashboard visualizes AML alerts, transaction risk scores, model performance, and analyst investigation priorities.
+
+![Qlik Sense AML ML Dashboard](https://github.com/allanvissor-max/aml-anomaly-detection-databricks/blob/main/QlikSense%20AML%20ML%20dashboard.jpg?raw=true)
+
 The dashboard includes:
 
 ### KPI Cards
