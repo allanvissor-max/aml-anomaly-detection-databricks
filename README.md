@@ -297,7 +297,7 @@ The Gold analyst queue is connected to Qlik Sense.
 
 The dashboard visualizes AML alerts, transaction risk scores, model performance, and analyst investigation priorities.
 
-![Qlik Sense AML ML Dashboard](https://github.com/allanvissor-max/aml-anomaly-detection-databricks/blob/main/screenshots/QlikSense%20AML%20ML%20dashboard.jpg?raw=true)
+![Qlik Sense AML ML Dashboard](screenshots/QlikSense%20AML%20ML%20dashboard.jpg)
 
 The dashboard includes:
 
