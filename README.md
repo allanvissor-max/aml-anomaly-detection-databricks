@@ -449,6 +449,6 @@ The project also shows why anomaly detection should support analysts rather than
 
 ---
 
-## Interview Summary
+## Summary
 
 > I built an end-to-end AML anomaly detection proof of concept using Databricks and Qlik Sense. JSON transactions are ingested through a Lakeflow Bronze and Silver pipeline, transformed into five customer behaviour features, and scored with an Isolation Forest model. The highest-risk transactions are written into a Gold analyst queue and visualized in Qlik Sense. I also evaluated precision and recall and explored how the alert threshold affects both anomaly coverage and analyst workload.
