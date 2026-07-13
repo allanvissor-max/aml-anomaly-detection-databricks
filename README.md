@@ -1,4 +1,4 @@
-# AML Anomaly Detection Pipeline with Databricks and Qlik Sense
+# AML Machine Learning Pipeline with Databricks and Qlik Sense
 
 ## Overview
 
