@@ -145,6 +145,8 @@ Output table:
 workspace.aml_ml_3pct.customer_behavior_features
 ```
 
+<img width="2930" height="1584" alt="databricks aml ml pipeline" src="https://github.com/user-attachments/assets/2a57c9d4-b50d-41f6-ab3e-930b3c53b5b8" />
+
 ---
 
 ## Machine Learning Features
