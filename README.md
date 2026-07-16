@@ -1,4 +1,4 @@
-# AML Machine Learning Pipeline with Databricks and Qlik Sense
+# AML Pipeline with Databricks and Qlik Sense
 
 ## Overview
 
