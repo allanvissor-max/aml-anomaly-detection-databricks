@@ -34,6 +34,7 @@ AML analysts cannot manually review every transaction. A detection solution must
 
 This project aims to:
 
+- demonstrate end-to-end data pipeline engineering skills
 - detect statistically unusual transactions;
 - compare each transaction with the customer’s previous behaviour;
 - rank detected outliers by anomaly score;
