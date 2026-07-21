@@ -1,4 +1,4 @@
-# AML Pipeline with Databricks and Qlik Sense
+# AML Data Pipeline with Databricks and Qlik Sense
 
 ## Overview
 
@@ -51,6 +51,7 @@ The model identifies **anomalies**, not confirmed money laundering or fraud. Eve
 - **Databricks**
 - **Lakeflow Spark Declarative Pipelines**
 - **Apache Spark / PySpark**
+- **SQL**
 - **Delta tables**
 - **scikit-learn**
 - **Isolation Forest**
